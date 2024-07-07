@@ -1,3 +1,3 @@
 ### Hi there 👋 ###
 
-My name is William Whatley and I am a game dev!
+Just doin my thing...
