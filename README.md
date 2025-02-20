@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about software development, open-so
 - 🌱 I’m always learning and currently focusing on cloud technologies and DevOps practices.
 - 👯 I’m looking to collaborate on innovative and impactful projects.
 - 💬 Ask me about software development, cloud computing, and open-source contributions.
-- 📫 How to reach me: [renegadeactual@example.com](mailto:renegadeactual@example.com)
+- 📫 How to reach me: Discord: renegadeactual
 - ⚡ Fun fact: I love hiking and exploring new places in my free time.
 
 ## 🔧 Technologies & Tools
