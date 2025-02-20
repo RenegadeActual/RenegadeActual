@@ -11,11 +11,7 @@ Welcome to my GitHub profile! I'm passionate about software development, open-so
 - ⚡ Fun fact: I love hiking and exploring new places in my free time.
 
 ## 🔧 Technologies & Tools
-- Programming Languages: Python, JavaScript, TypeScript, Go
-- Frameworks & Libraries: React, Node.js, Express, Django
-- DevOps: Docker, Kubernetes, Jenkins, GitHub Actions
-- Cloud: AWS, Azure, Google Cloud Platform
-- Databases: MySQL, PostgreSQL, MongoDB
+- Programming Languages: C, C++, Java
 
 ## 📈 GitHub Stats
 ![RenegadeActual's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenegadeActual&show_icons=true&theme=radical)
