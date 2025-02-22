@@ -5,7 +5,6 @@ Welcome to my GitHub profile! I'm passionate about software development, open-so
 ## 🚀 About Me
 - 🔭 I’m currently working on various open-source projects.
 - 👯 I’m looking to collaborate on innovative and impactful projects.
-- ⚡ Fun fact: I love hiking and exploring new places in my free time.
 
 ## 🔧 Technologies & Tools
 - Programming Languages: C, JavaScript
