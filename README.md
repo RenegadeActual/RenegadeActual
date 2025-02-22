@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about software development, open-so
 - ⚡ Fun fact: I love hiking and exploring new places in my free time.
 
 ## 🔧 Technologies & Tools
-- Programming Languages: C, C++, Java
+- Programming Languages: C, JavaScript
 
 ## 📈 GitHub Stats
 ![RenegadeActual's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenegadeActual&show_icons=true&theme=radical)
