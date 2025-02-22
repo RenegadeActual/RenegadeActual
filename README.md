@@ -15,6 +15,7 @@ Welcome to my GitHub profile! I'm passionate about software development, open-so
 
 ## 📌 Pinned Repositories
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RenegadeActual&repo=Velmora&theme=radical)](https://github.com/RenegadeActual/Velmora)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RenegadeActual&repo=MinxDiscordBot&theme=radical)](https://github.com/RenegadeActual/MinxDiscordBot)
 
 
 Thank you for visiting my profile! Feel free to reach out if you have any questions or if you're interested in collaborating on a project.
